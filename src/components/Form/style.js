@@ -48,6 +48,8 @@ const styles = StyleSheet.create({
         color:"red",
         fontWeight:"bold",
         paddingLeft:20,
+    },exibitionResultImc:{
+        width:"100%",
     }
 })
 
